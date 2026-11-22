@@ -1,0 +1,1 @@
+CALL deposito.sp_insertar_producto_seguro("Marca' OR '1'='1","Cat",0,0,"000");

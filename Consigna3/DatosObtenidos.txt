@@ -1,0 +1,29 @@
+Consulta A  con indice resultados:
+prueba 1: 22.390 ms
+prueba 2: 18.519 ms
+prueba 3: 19.269 ms
+
+Consulta A sin indice:
+prueba 1: 24.403 ms
+prueba 2: 26.614 ms
+prueba 3: 23.119 ms
+
+Consulta B  con indice resultados:
+prueba 1: 22.858 ms
+prueba 2: 24.171 ms
+prueba 3: 18.281 ms
+
+Consulta B sin indice:
+prueba 1: 326.149 ms
+prueba 2: 282.147 ms
+prueba 3: 299.203 ms
+
+Consulta C  con indice resultados:
+prueba 1: 226.919 ms
+prueba 2: 206.210 ms
+prueba 3: 222.683 ms
+
+Consulta C sin indice:
+prueba 1: 203.926 ms
+prueba 2: 147.932 ms
+prueba 3: 203.368 ms
